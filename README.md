@@ -8,7 +8,7 @@
 - [Leetcode](http://leetcode.com/)
 - [Hackkerrank](https://www.hackerrank.com/)
 - [Blind Curative 75 questions lists](teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
-- [Sean Prasad's leetcode patterns] (https://github.com/seanprashad/leetcode-patterns)
+- [Sean Prasad's leetcode patterns](https://github.com/seanprashad/leetcode-patterns)
 
 ## Coding problems Youtube channels
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
